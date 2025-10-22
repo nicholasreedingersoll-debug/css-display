@@ -16,4 +16,9 @@ body {
 
 .container {
     background-color: beige;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: start;
 }

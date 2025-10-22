@@ -5,3 +5,9 @@ body {
 i {
     background-color: yellow;
 }
+
+p {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
